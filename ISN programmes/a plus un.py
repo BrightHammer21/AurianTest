@@ -1,4 +1,7 @@
 ﻿# Créé par aurian.durand, le 07/10/2015 en Python 3.2
+
+#Voici un de mes premiers programmes en Python dans le carde de l'ISN
+
 a=input("Entrez un nombre")
 a=int(a)
 n=0
